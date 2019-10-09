@@ -1,0 +1,11 @@
+117
+
+Setup Google Drive Folder share with elijah 
+StudentLastName ITDEV117  Campus Semester
+Example: Smith ITDEV117 Downtown Spring 2018
+Write syllabus confirmation...
+	 "Have you reviewed and do you understand the Syllabus, Course Calendar, 
+	and your responsibilities for this course?"   Use complete sentences.  
+	Submit your response in the Assignment area of blackboard under Syllabus Confirmation. (10 points)
+
+Create flowchart for 
